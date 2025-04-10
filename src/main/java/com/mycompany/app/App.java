@@ -11,7 +11,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Modify something");
+        System.out.println("Test github webhook!");
     }
 
     public String getMessage() {
